@@ -8,6 +8,7 @@ h1 {
     color: rgb(205, 152, 205);
     background-color: rgb(199, 231, 199);
     font-size: 100px;
+    padding: 30px;
 }
 
 img {
@@ -23,7 +24,7 @@ p {
     background-color: rgb(199, 231, 199);
     color: rgb(233, 66, 189);
     font-weight: bold;
-
+    padding: 15px;
 }
 
 ul {
@@ -31,15 +32,15 @@ ul {
     list-style-type: none;
 }
 
-
 .l1 {
-    text-align: left;
+    padding:12px;
 }
 
 .l2 {
-    text-align: center;
+    padding:12px;
 }
 
 .l3 {
-    text-align: right;
+    padding:12px;
 }
+
